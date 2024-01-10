@@ -1,7 +1,7 @@
 public class main {
  
     public static void main(String[] args) {
-        
+     // This project was added to the linked list in the order we added it.   
         LinkedList linkedList = new LinkedList();
         
         Node n1 = new Node(5);
